@@ -25,30 +25,53 @@
 
 **프로젝트 문서**
  
-| 📒 [팀 Notion ](https://adorable-entree-2a6.notion.site/HitechAutoWorks-746bb8d780ce4f07957e2efccb4a37d8?pvs=4) | 🎉 [Figma](https://www.figma.com/design/c94BWil0qqwGGDw6tKQNzd/Hi-Tech-Auto-Works_Homepage?m=dev&node-id=0-1&t=hvOzNdFkjmxLUJpJ-1) | 💌 [Miro](https://miro.com/welcomeonboard/a0ZNT0Rua3pMemR6M1ZVQ2xkc0JveDlxNDhFdE5yV0E1cWwwYlhhQ2VLeWE3Sk1YVlpJN2RPbnVNTEFHMmdxRnwzNDU4NzY0NTg3Mjk1NzY0MjI4fDI=?share_link_id=468227781974)
+| 📒 [팀 Notion ]([https://adorable-entree-2a6.notion.site/HitechAutoWorks-746bb8d780ce4f07957e2efccb4a37d8?pvs=4](https://ohgiraffers.notion.site/SkyCare-e6c16dc3f41b4521948d685a14f4bd80?pvs=4)) | 🎉 [Figma](https://www.figma.com/design/ncnvZxnE8j2mM3fBtjmweC/%EC%8B%9C%EC%84%A4%EB%AC%BC-%EA%B4%80%EB%A6%AC--%EC%95%88%EB%82%B4%EC%86%8C-%EC%A1%B0%ED%9A%8C?node-id=0-1&m=dev&t=R1QnTV1cniEE8Ti2-1) | 💌 [Miro](https://miro.com/welcomeonboard/RjlzeXZuME9qMnBxY25LTkU4a1JEMWgxTHZhbjFqU1lidU53c3JNckQwTGtzajZtNzhKT0ZldURJYVFoZEhiVnwzNDU4NzY0NTg3Mjk1NzY0MjI4fDI=?share_link_id=888080450545)
 <br/>
 <br/>
 <br/>
 
 ## 📅 프로젝트 일정
-<img src="https://github.com/panghunJO/HitechProject/assets/157236060/6037da66-e176-41b3-956b-dd9fd051d550" alt="일정1">
-<img src="https://github.com/panghunJO/HitechProject/assets/157236060/a464105e-0f04-4bc9-98bf-17291736bd4e" alt="일정2">
+<img src="" alt="일정1">
+<img src="" alt="일정2">
 <br/>
 <br/>
 <br/>
 
 ## 🖥 기술 스택
 
-| 구분                 | 사용 기술          |
-| -------------------- | ------------------ |
-| 언어                 | Java (JDK-17), HTML/CSS, JAVAScript |
-| UI                   | BootStrap            |
-| 서버               | Apache Tomcat/10.1.20   |
-| 프레임워크                  | Spring Framework 3.2.5, MyBatis 3.0.3, Spring Security |
-| DB             | MySQL            |
-| IDE      | Intellij Ultimate, HeidiSQL, DBeaver    |
-| API, 라이브러리  | chart.js, fullcalender, Java Mail Sender, nurigo   |
-| 협업툴  | Notion, Github   |
+## 📘 프론트 엔드
+
+| 구분                 | 사용 기술 및 라이브러리          |
+| -------------------- | ------------------------------- |
+| 언어                 | JavaScript, HTML/CSS            |
+| UI                   | Material-UI, Bootstrap, Styled Components, React Beautiful DnD, React Select, React Simple Tree Menu, React Bootstrap Table, React Chat Elements |
+| 상태 관리            | Redux, React-Redux, @reduxjs/toolkit |
+| 폼 및 유효성 검사    | Formik, React Hook Form, Yup, React Validation |
+| 차트 및 시각화       | Chart.js, React Chartjs 2, ApexCharts, React ApexCharts, React Jvectormap |
+| 에디터 및 리치 텍스트 | Draft.js, React Draft WYSIWYG, React Markdown, @uiw/react-md-editor |
+| HTTP 통신            | Axios, Axios Mock Adapter        |
+| 파일 처리            | HTML2Canvas, JSPDF, JS Cookie    |
+| 유틸리티             | Moment.js, Chroma.js, UUID, Namor, Get Orientation, QRCode.react |
+| 권한 관리            | @casl/ability, @casl/react       |
+| 개발 도구 및 빌드    | Vite, ESLint, @vitejs/plugin-react |
+
+
+## 📙 백엔드
+
+| 구분                 | 사용 기술 및 라이브러리          |
+| -------------------- | ------------------------------- |
+| 언어                 | Java (JDK 17)                   |
+| 프레임워크           | Spring Boot, Spring Security, Spring Web, Spring Data JPA, Spring WebSocket, Spring Validation, Spring Boot DevTools |
+| 데이터베이스         | MySQL, MySQL Connector/J        |
+| API, 라이브러리      | ModelMapper, Commons IO, Unirest, jjwt (JSON Web Token), Dotenv (환경변수 관리) |
+| 테스트               | JUnit, Spring Security Test, Spring Boot Test, JUnit Platform Launcher |
+| 문서화               | Springdoc OpenAPI (Swagger)     |
+| 메시징 및 알림       | Nurigo SMS SDK                  |
+| 웹 클라이언트        | Spring WebFlux, WebClient       |
+| 클라우드             | Firebase Admin SDK              |
+| 네트워크             | Netty DNS Resolver              |
+| 애노테이션 프로세싱  | Lombok, Annotation Processor    |
+| 리포지토리 관리      | Maven Central                   |
 
 
 <br/>
