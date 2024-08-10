@@ -49,6 +49,9 @@
 <br/>
 <br/>
 
+
+***
+
 ## 🖥 기술 스택
 
 ## 📘 Front end
@@ -67,6 +70,8 @@
 | 권한 관리            | @casl/ability, @casl/react       |
 | 개발 도구 및 빌드    | Vite, ESLint, @vitejs/plugin-react |
 
+***
+
 
 ## 📙 Back end
 
@@ -82,6 +87,8 @@
 | 웹 클라이언트        | Spring WebFlux, WebClient       |
 | 클라우드             | Firebase Admin SDK              |
 | 어노테이션 프로세싱  | Lombok, Annotation Processor    |
+
+***
 
 ## 📱 Mobile Application
 
@@ -100,9 +107,9 @@
 
 
 
-<br/>
-<br/>
-<br/>
+
+***
+***
 
 ## 🗂 디렉토리 구조
 
@@ -143,9 +150,8 @@
 │       ├── airportStore
 │       ├── "etc..."`
 └── vite.config.js
-<br/>
-<br/>
 ```
+***
 
 ## 📙 back end
 ```
@@ -169,10 +175,9 @@
 │   │               ├── airplane
 │   │               ├── approval
 │   │               ├── "etc..."`
-<br/>
-<br/>
-```
 
+```
+***
 
 ## 📱 Mobile Application
 
@@ -193,7 +198,7 @@
     └── webview
         └── WebView.js
 ```
-
+***
 
 ## ✨ 물리 데이터 모델
 <img src="https://github.com/user-attachments/assets/f633aeab-2c32-42f7-a3f6-a2490f818f42" alt="model">
