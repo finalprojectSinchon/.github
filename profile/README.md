@@ -6,7 +6,7 @@
 <div align="center"><img src="" alt="로고" width="700px"></div>
 <br/>
 
-**프로젝트 기간** : 2024.07.04 ~ 2023.08.13
+**프로젝트 기간** : 2024.06.19 ~ 2023.08.13
 
 🔗 [HitechAutoworks 서비스 둘러보기](http://confoous.com) (데스크탑/모바일 환경에서 이용 가능)
 
