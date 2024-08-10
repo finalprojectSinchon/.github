@@ -51,7 +51,7 @@
 
 ## 🖥 기술 스택
 
-## 📘 front end
+## 📘 Front end
 
 | 구분                 | 사용 기술 및 라이브러리          |
 | -------------------- | ------------------------------- |
@@ -68,7 +68,7 @@
 | 개발 도구 및 빌드    | Vite, ESLint, @vitejs/plugin-react |
 
 
-## 📙 back end
+## 📙 Back end
 
 | 구분                 | 사용 기술 및 라이브러리          |
 | -------------------- | ------------------------------- |
@@ -82,6 +82,22 @@
 | 웹 클라이언트        | Spring WebFlux, WebClient       |
 | 클라우드             | Firebase Admin SDK              |
 | 어노테이션 프로세싱  | Lombok, Annotation Processor    |
+
+## 📱 Mobile Application
+
+| 구분                 | 사용 기술 및 라이브러리          |
+| -------------------- | ------------------------------- |
+| 언어                 | JavaScript                      |
+| 모바일 애플리케이션 개발 | React Native, Expo              |
+| 네비게이션           | React Navigation                |
+| 상태 관리            | Formik, Yup                     |
+| 네트워크 통신        | Axios                           |
+| 스토리지             | @react-native-async-storage/async-storage |
+| UI 컴포넌트          | @react-native-community/checkbox, @react-native-picker/picker, Expo Checkbox, React Native Safe Area Context, React Native Screens |
+| 기기 기능            | Expo Barcode Scanner, Expo Camera |
+| 웹뷰                 | React Native WebView            |
+| 빌드 도구            | Babel                           |
+
 
 
 <br/>
@@ -190,14 +206,35 @@
 │   │               ├── storage
 │   │               ├── store
 │   │               └── webSocket
-
+<br/>
+<br/>
 ```
 
 
+## 📱 Mobile Application
+
+```
+├── package-lock.json
+├── package.json
+├── assests
+├── componetns
+├── ├── qrscan
+├── ├──└──QrScannerScreen.js
+└── view
+    ├── home
+    │   └── HomeScreen.js
+    ├── inspection
+    │   └── InspectionRegist.js
+    ├── login
+    │   └── LoginScreen.js
+    └── webview
+        └── WebView.js
+```
 
 
 ## ✨ 물리 데이터 모델
 <img src="https://github.com/user-attachments/assets/f633aeab-2c32-42f7-a3f6-a2490f818f42" alt="model">
+
 
 ## ⭐️ 주요 기능
 
