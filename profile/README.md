@@ -113,8 +113,7 @@
 ├── package.json
 ├── public
 │   ├── 1.png
-│   ├── 2.png
-│   ├── favicon.ico
+│   ├── "etc..."`
 │   └── music
 │       └── miruni.mp3
 ├── src
@@ -126,22 +125,12 @@
 │   │   ├── ComponentCard.js
 │   │   ├── apps
 │   │   ├── dashboard
-│   │   ├── location
-│   │   ├── store
-│   │   ├── threeColumn
-│   │   ├── twoColumn
-│   │   └── widgets
+│   │   ├── `"etc..."`
 │   ├── firebase.js
 │   ├── layouts
 │   │   ├── BlankLayout.js
 │   │   ├── FullLayout.js
-│   │   ├── breadcrumbs
-│   │   ├── customizer
-│   │   ├── header
-│   │   ├── loader
-│   │   ├── logo
-│   │   ├── sidebars
-│   │   └── theme
+│   │   ├── "etc..."`
 │   ├── main.jsx
 │   ├── routes
 │   │   └── Router.js
@@ -150,22 +139,9 @@
 │   │   ├── apps
 │   │   └── customizer
 │   └── views
-│       ├── About.js
 │       ├── airplane
 │       ├── airportStore
-│       ├── approve
-│       ├── apps
-│       ├── auth
-│       ├── calendar
-│       ├── chat
-│       ├── createQRCode
-│       ├── dashboards
-│       ├── equipment
-│       ├── facilities
-│       ├── inspection
-│       ├── maintenance
-│       ├── storage
-│       └── tables
+│       ├── "etc..."`
 └── vite.config.js
 <br/>
 <br/>
@@ -192,20 +168,7 @@
 │   │               ├── QRCode
 │   │               ├── airplane
 │   │               ├── approval
-│   │               ├── auth
-│   │               ├── common
-│   │               ├── config
-│   │               ├── equipment
-│   │               ├── facilities
-│   │               ├── gptapi
-│   │               ├── inspection
-│   │               ├── location
-│   │               ├── maintenance
-│   │               ├── manager
-│   │               ├── member
-│   │               ├── storage
-│   │               ├── store
-│   │               └── webSocket
+│   │               ├── "etc..."`
 <br/>
 <br/>
 ```
