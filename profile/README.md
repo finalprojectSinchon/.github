@@ -6,7 +6,7 @@
 <div align="center"><img src="" alt="로고" width="700px"></div>
 <br/>
 
-**프로젝트 기간** : 2024.04.08 ~ 2023.06.03
+**프로젝트 기간** : 2024.07.04 ~ 2023.08.13
 
 🔗 [HitechAutoworks 서비스 둘러보기](http://confoous.com) (데스크탑/모바일 환경에서 이용 가능)
 
@@ -15,17 +15,29 @@
 
 ## ✨ 프로젝트 소개
 
-### Hi-Tech Autoworks Service
 
-- HitechAutoworks 자동차 정비소 정비성 효율화 플랫폼입니다.
-- 현재 진행 중인 프로젝트는 정비소의 문제점을 개선하고 효율성을 증대시키는 것을 목표로 합니다.
-- 프로젝트를 통해 현장 서비스 문제 해결과 정비 효율성 향상을 실현할 수 있습니다.
+## **프로젝트: SkyCare**
+
+#### **개요**
+공항 시설물의 효율적이고 체계적인 관리를 위한 종합 솔루션 제공 프로그램 개발. React.js를 이용한 SPA 애플리케이션과 Spring Boot 기반의 REST API 서버를 구축하고, 도커를 활용한 클라우드 배포를 통해 공항 내 시설물 관리와 대여를 지원합니다.
+
+#### **주요 기능**
+- **실시간 모니터링 및 소통**: 공항 내 비행기, 점포, 창고, 편의 시설, 안내소 등 다양한 시설물의 상태를 실시간으로 모니터링하고 필요한 소통 기능 제공.
+- **QR 코드 활용**: 시설물에 부착된 QR 코드를 이용하여 장비 재고 관리 및 시설물 유지 보수 일정 관리.
+- **실시간 알림**: 재고 부족, 유지 보수 필요 시 실시간 알림 기능 제공.
+- **보고서 생성**: 재고 목록 표, 시설물 일일 점검 일지, 유지 보수 계획 보고서 자동 생성.
+
+#### **목표**
+- 공항 운영자가 시설물 상태를 한눈에 파악하고, 유지 보수 작업을 적시에 수행하여 불필요한 운영 중단 최소화.
+- 공항의 효율적 운영과 안전성 확보를 통해 이용객들에게 더 나은 서비스 제공.
+
+
 
 <br/>
 
 **프로젝트 문서**
  
-| 📒 [팀 Notion ]([https://adorable-entree-2a6.notion.site/HitechAutoWorks-746bb8d780ce4f07957e2efccb4a37d8?pvs=4](https://ohgiraffers.notion.site/SkyCare-e6c16dc3f41b4521948d685a14f4bd80?pvs=4)) | 🎉 [Figma](https://www.figma.com/design/ncnvZxnE8j2mM3fBtjmweC/%EC%8B%9C%EC%84%A4%EB%AC%BC-%EA%B4%80%EB%A6%AC--%EC%95%88%EB%82%B4%EC%86%8C-%EC%A1%B0%ED%9A%8C?node-id=0-1&m=dev&t=R1QnTV1cniEE8Ti2-1) | 💌 [Miro](https://miro.com/welcomeonboard/RjlzeXZuME9qMnBxY25LTkU4a1JEMWgxTHZhbjFqU1lidU53c3JNckQwTGtzajZtNzhKT0ZldURJYVFoZEhiVnwzNDU4NzY0NTg3Mjk1NzY0MjI4fDI=?share_link_id=888080450545)
+| 📒 [팀 Notion ](https://adorable-entree-2a6.notion.site/HitechAutoWorks-746bb8d780ce4f07957e2efccb4a37d8?pvs=4](https://ohgiraffers.notion.site/SkyCare-e6c16dc3f41b4521948d685a14f4bd80?pvs=4)) | 🎉 [Figma](https://www.figma.com/design/ncnvZxnE8j2mM3fBtjmweC/%EC%8B%9C%EC%84%A4%EB%AC%BC-%EA%B4%80%EB%A6%AC--%EC%95%88%EB%82%B4%EC%86%8C-%EC%A1%B0%ED%9A%8C?node-id=0-1&m=dev&t=R1QnTV1cniEE8Ti2-1) | 💌 [Miro](https://miro.com/welcomeonboard/RjlzeXZuME9qMnBxY25LTkU4a1JEMWgxTHZhbjFqU1lidU53c3JNckQwTGtzajZtNzhKT0ZldURJYVFoZEhiVnwzNDU4NzY0NTg3Mjk1NzY0MjI4fDI=?share_link_id=888080450545)
 <br/>
 <br/>
 <br/>
@@ -39,7 +51,7 @@
 
 ## 🖥 기술 스택
 
-## 📘 프론트 엔드
+## 📘 front end
 
 | 구분                 | 사용 기술 및 라이브러리          |
 | -------------------- | ------------------------------- |
@@ -56,22 +68,20 @@
 | 개발 도구 및 빌드    | Vite, ESLint, @vitejs/plugin-react |
 
 
-## 📙 백엔드
+## 📙 back end
 
 | 구분                 | 사용 기술 및 라이브러리          |
 | -------------------- | ------------------------------- |
 | 언어                 | Java (JDK 17)                   |
 | 프레임워크           | Spring Boot, Spring Security, Spring Web, Spring Data JPA, Spring WebSocket, Spring Validation, Spring Boot DevTools |
-| 데이터베이스         | MySQL, MySQL Connector/J        |
+| 데이터베이스         | MySQL, MySQL Connector/J , Firebase       |
 | API, 라이브러리      | ModelMapper, Commons IO, Unirest, jjwt (JSON Web Token), Dotenv (환경변수 관리) |
 | 테스트               | JUnit, Spring Security Test, Spring Boot Test, JUnit Platform Launcher |
 | 문서화               | Springdoc OpenAPI (Swagger)     |
 | 메시징 및 알림       | Nurigo SMS SDK                  |
 | 웹 클라이언트        | Spring WebFlux, WebClient       |
 | 클라우드             | Firebase Admin SDK              |
-| 네트워크             | Netty DNS Resolver              |
-| 애노테이션 프로세싱  | Lombok, Annotation Processor    |
-| 리포지토리 관리      | Maven Central                   |
+| 어노테이션 프로세싱  | Lombok, Annotation Processor    |
 
 
 <br/>
@@ -80,35 +90,114 @@
 
 ## 🗂 디렉토리 구조
 
+## 📘 front end
+
 ```
-├── README.md
-├── build
-│   ├── classes
-│   ├── generated
-│   ├── libs
-│   ├── reports
-│   ├── resolvedMainClassName
-│   ├── resources
-│   ├── test-results
-│   └── tmp
-├── build.gradle
-├── gradle
-│   └── wrapper
-├── gradlew
-├── gradlew.bat
-├── img
-├── log
-│   ├── test.log
-├── settings.gradle
-└── src
-    ├── main
-    └── test
+├── package-lock.json
+├── package.json
+├── public
+│   ├── 1.png
+│   ├── 2.png
+│   ├── favicon.ico
+│   └── music
+│       └── miruni.mp3
+├── src
+│   ├── App.jsx
+│   ├── assets
+│   │   ├── images
+│   │   └── scss
+│   ├── components
+│   │   ├── ComponentCard.js
+│   │   ├── apps
+│   │   ├── dashboard
+│   │   ├── location
+│   │   ├── store
+│   │   ├── threeColumn
+│   │   ├── twoColumn
+│   │   └── widgets
+│   ├── firebase.js
+│   ├── layouts
+│   │   ├── BlankLayout.js
+│   │   ├── FullLayout.js
+│   │   ├── breadcrumbs
+│   │   ├── customizer
+│   │   ├── header
+│   │   ├── loader
+│   │   ├── logo
+│   │   ├── sidebars
+│   │   └── theme
+│   ├── main.jsx
+│   ├── routes
+│   │   └── Router.js
+│   ├── store
+│   │   ├── Store.js
+│   │   ├── apps
+│   │   └── customizer
+│   └── views
+│       ├── About.js
+│       ├── airplane
+│       ├── airportStore
+│       ├── approve
+│       ├── apps
+│       ├── auth
+│       ├── calendar
+│       ├── chat
+│       ├── createQRCode
+│       ├── dashboards
+│       ├── equipment
+│       ├── facilities
+│       ├── inspection
+│       ├── maintenance
+│       ├── storage
+│       └── tables
+└── vite.config.js
 <br/>
 <br/>
 ```
 
+## 📙 back end
+```
+.
+├── HELP.md
+├── build
+├── build.gradle
+├── gradle
+├── gradlew
+├── gradlew.bat
+├── settings.gradle
+├── springreactfinal-firebase-adminsdk-e2c6d-238da92846.json
+└── src
+├── main
+│   ├── java
+│   │   └── com
+│   │       └── finalproject
+│   │           └── airport
+│   │               ├── AirportApplication.java
+│   │               ├── QRCode
+│   │               ├── airplane
+│   │               ├── approval
+│   │               ├── auth
+│   │               ├── common
+│   │               ├── config
+│   │               ├── equipment
+│   │               ├── facilities
+│   │               ├── gptapi
+│   │               ├── inspection
+│   │               ├── location
+│   │               ├── maintenance
+│   │               ├── manager
+│   │               ├── member
+│   │               ├── storage
+│   │               ├── store
+│   │               └── webSocket
+
+```
+
+
+
+
 ## ✨ 물리 데이터 모델
-<img src="https://github.com/panghunJO/HitechProject/assets/157236060/ce2fb658-0fe9-414e-b090-19953231fff3" alt="model">
+<img src="https://github.com/user-attachments/assets/f633aeab-2c32-42f7-a3f6-a2490f818f42" alt="model">
 
 ## ⭐️ 주요 기능
 
