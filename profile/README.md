@@ -213,9 +213,12 @@
 - 일반회원은 회원가입을 할수 있습니다.
 - 회원가입 시 반드시 이메일 인증을 받아야 이용 가능합니다.
 
- <img src="https://github.com/panghunJO/HitechProject/assets/157236060/5a74f52a-4f25-4ff1-bbf7-af6169a2f5b3" alt="회원가입" width="50%">
- <img src="https://github.com/panghunJO/HitechProject/assets/157236060/e363983c-577c-45a6-8de2-c2786beccf4a" alt="회원인증" width="50%" align="right">
-    
+ <img src="https://github.com/user-attachments/assets/b3f8d71d-ec2e-4205-8dfe-700114ed1721" alt="회원가입" width="50%">
+ <img src="https://github.com/user-attachments/assets/2b697b64-1094-41a2-9687-d4a2a3fcf5c1" alt="회원가입2" width="50%" align="right">
+ <br/>
+ <img src="https://github.com/user-attachments/assets/71c01106-47f6-4b85-9bba-577160dd0abf" alt="인증번호" width="45%" height="200px">
+ <img src="https://github.com/user-attachments/assets/a431f750-0702-4cdc-bb68-49ed7c45bfbc" alt="인증번호" width="50%" height="200px" align="right">
+ 
  <br/>   
 
  ### 📌 아이디/비밀번호 찾기
@@ -224,7 +227,7 @@
 - 비밀번호 찾기 시 등록한 휴대폰 번호로 임시비밀번호가 발송됩니다.
 
  <img src="https://github.com/panghunJO/HitechProject/assets/157236060/fcdf52c4-9a7b-4fe4-bfdf-0b02ef078b4a" alt="findpw" width="50%">
- <img src="https://github.com/panghunJO/HitechProject/assets/157236060/f28a62e6-6d13-48fc-94cb-381ee2738c9f" alt="인증번호" width="45%" align="right">
+ <img src="https://github.com/user-attachments/assets/058c06cb-2822-418a-b9b8-6a2230f43236" alt="인증번호" width="45%" align="right">
     
  <br/>   
 
