@@ -253,13 +253,12 @@
  <br/>   
  
 
-  ### 📌 작업 등록
+  ### 📌 긴급 알림
 
-- 직원/관리자는 회원이 예약한 작업을 등록할 수 있습니다.
-- 해당 시간에 이미 등록된 작업자는 작업자 목록에 나타나지 않습니다.
+- 공항에서 급박한 상황 발생시 로그인한 모든 유저에게 긴급한 알림을 발송합니다.
 
- <img src="https://github.com/panghunJO/HitechProject/assets/157236060/9531eab6-e468-4bd1-992e-b9ff4f7cdc7c" alt="Res01" width="50%">
-  <img src="https://github.com/panghunJO/HitechProject/assets/157236060/61bf512a-270d-4427-a7f3-36565ab8b952" alt="Res02" width="50%" align="right">
+ <img src="https://github.com/user-attachments/assets/2823def4-f513-47c1-b097-4881f6ca58bc" alt="Emergency">
+
 
  <br/>   
 
