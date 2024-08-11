@@ -234,12 +234,11 @@
  ### 📌 아이디 찾기 / 비밀번호 찾기
 
  - 아이디 찾기 시 이메일 요구 => 확인 성공시 아이디 표시
- ![SkyCare-AirportService-Chrome2024-08-1201-15-56-ezgif com-speed (1)](https://github.com/user-attachments/assets/fbf1e0ae-b0a2-4672-ab30-24b00b7a557b)
-
+ <img src="https://github.com/user-attachments/assets/fbf1e0ae-b0a2-4672-ab30-24b00b7a557b">
 <br/>
 
 - 비밀번호 찾기 시 등록된 이메일로 임시비밀번호 전송
-![SkyCare-AirportService-Chrome2024-08-1201-15-56-ezgif com-speed (2)](https://github.com/user-attachments/assets/c353b5f1-3550-41d7-9f92-1113c45e5f71)
+ <img src="https://github.com/user-attachments/assets/c353b5f1-3550-41d7-9f92-1113c45e5f71">
 
 
  ### 📌 프로필 내소개 / 이미지 등록
