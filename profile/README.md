@@ -229,9 +229,6 @@
  <img src="https://github.com/user-attachments/assets/71c01106-47f6-4b85-9bba-577160dd0abf" alt="인증번호" width="45%" >
  <img src="https://github.com/user-attachments/assets/a431f750-0702-4cdc-bb68-49ed7c45bfbc" alt="인증번호" width="50%" align="right">
   </details>
-
-
-
  
  <br/>   
 
