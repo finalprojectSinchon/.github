@@ -250,6 +250,8 @@
  <img src="https://github.com/user-attachments/assets/668cdb3d-9823-4040-ae7c-d3db01c2d413" alt="Live"  width="50%" >
  <img src="https://github.com/user-attachments/assets/2823def4-f513-47c1-b097-4881f6ca58bc" alt="Live2" width="50%" align="right">
 
+  - 😊[온라인 상태 Ping 유지방법 위키](https://github.com/finalprojectSinchon/backend/wiki/WebSocket-PingPong)
+
  <br/>   
  
 
