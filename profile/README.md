@@ -236,7 +236,7 @@
  - 아이디 찾기 시 이메일 요구 => 확인 성공시 아이디 표시
  - 비밀번호 찾기 시 등록된 이메일로 임시비밀번호 전송
      
- <img src="https://github.com/user-attachments/assets/fbf1e0ae-b0a2-4672-ab30-24b00b7a557b" width="45%">
+ <img src="https://github.com/user-attachments/assets/fbf1e0ae-b0a2-4672-ab30-24b00b7a557b" width="50%">
 
 
  <img src="https://github.com/user-attachments/assets/c353b5f1-3550-41d7-9f92-1113c45e5f71" width="50%" align="right">
@@ -250,7 +250,7 @@
 - 나의 프로필은 마크다운 + html 언어로 꾸밀 수 있습니다. 꾸민 프로필은 사원조회시 노출됩니다.
 - 이미지를 원형으로 자를 수 있습니다. 
 
- <img src="https://github.com/user-attachments/assets/90b97946-242d-4712-90ce-88ae679c73d7" alt="findpw" width="60%">
+ <img src="https://github.com/user-attachments/assets/90b97946-242d-4712-90ce-88ae679c73d7" alt="findpw" width="50%">
  <img src="https://github.com/user-attachments/assets/5d5ab9c4-b99b-4ce1-817a-25c2fba487a0" alt="인증번호" width="50%" align="right">
     
  <br/>   
