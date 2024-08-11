@@ -215,6 +215,7 @@
   <img src="https://github.com/user-attachments/assets/b3f8d71d-ec2e-4205-8dfe-700114ed1721" alt="회원가입" width="70%" align="center">
 
  <br/>
+ ***
  
   <details>
   <summary> 일반회원 / 회원가입 </summary>
@@ -222,6 +223,7 @@
   </details>
   
  <br/>
+ ***
 
   <details>
   <summary> 일반회원 / 인증코드 수신(이메일/SMS) </summary>
@@ -230,6 +232,7 @@
   </details>
  
  <br/>   
+ ***
 
  ### 📌 아이디 찾기 / 비밀번호 찾기
 
@@ -242,7 +245,7 @@
  <img src="https://github.com/user-attachments/assets/c353b5f1-3550-41d7-9f92-1113c45e5f71" width="50%" align="right">
 
 <br/>
-<br/>
+***
 
 
  ### 📌 프로필 내소개 / 이미지 등록
@@ -254,7 +257,7 @@
  <img src="https://github.com/user-attachments/assets/5d5ab9c4-b99b-4ce1-817a-25c2fba487a0" alt="인증번호" width="50%" align="right">
     
  <br/>   
-
+***
 
  ### 📌 실시간 온라인 상태 확인
 
