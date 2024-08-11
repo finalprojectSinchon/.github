@@ -287,16 +287,14 @@
 
  <br/>   
 
+ ***
 
- ### 📌 예약하기 기능
+ ### 📌 AI 검색
 
-- 손님은 시간대 별로 예약을 할 수 있습니다.
-- 선택하려는 시간에 모든 작업자가 작업에 등록되어 있으면 그 시간은 선택할 수 없습니다.
+- AI 모델이 서버의 DB 를 조회해 사용자의 질문을 대답합니다.
 
- <img src="https://github.com/panghunJO/HitechProject/assets/157236060/67d534c3-5c11-4841-8362-aace1ba5caa9" alt="작업예약" width="50%">
-   <img src="https://github.com/panghunJO/HitechProject/assets/157236060/6c70b971-977c-4c85-b443-23ff3c0d5e98" alt="작업예약2" width="50%" align="right">
+ <img src="https://github.com/user-attachments/assets/55376457-347e-4aa4-ac82-85b873c3b255" alt="AI">
 
- - 😊[작업자수와 예약시간 알고리즘 위키](https://github.com/panghunJO/HitechProject/wiki/%EC%9E%91%EC%97%85%EC%9E%90%EC%88%98%EC%99%80-%EC%98%88%EC%95%BD%EC%8B%9C%EA%B0%84-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
  <br/>   
 
