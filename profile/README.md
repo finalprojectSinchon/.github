@@ -247,8 +247,8 @@
 - 사원조회탭에서 실시간으로 온라인 상태를 확인 할 수 있습니다.
 - 온라인인 유저에게 메시지를 전달 시 실시간으로 알림이 전송됩니다.
 
- <img src="https://github.com/user-attachments/assets/668cdb3d-9823-4040-ae7c-d3db01c2d413" alt="Live">
-
+ <img src="https://github.com/user-attachments/assets/668cdb3d-9823-4040-ae7c-d3db01c2d413" alt="Live"  width="50%" >
+ <img src="https://github.com/user-attachments/assets/2823def4-f513-47c1-b097-4881f6ca58bc" alt="Live2" width="50%" align="right">
 
  <br/>   
  
