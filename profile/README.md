@@ -210,14 +210,28 @@
 
 ### 📌 회원가입
 
-- 일반회원은 회원가입을 할수 있습니다.
-- 회원가입 시 반드시 이메일 인증을 받아야 이용 가능합니다.
+- 신규직원은 관리자에게 인증코드를 받아 회원가입을 할수 있습니다.
+- 회원가입 시 권한/소속 등록 전은 프로필수정/채팅 등 기본적인 기능만 사용할 수 있습니다.
 
- <img src="https://github.com/user-attachments/assets/b3f8d71d-ec2e-4205-8dfe-700114ed1721" alt="회원가입" width="50%">
- <img src="https://github.com/user-attachments/assets/2b697b64-1094-41a2-9687-d4a2a3fcf5c1" alt="회원가입2" width="50%" align="right">
+  <img src="https://github.com/user-attachments/assets/b3f8d71d-ec2e-4205-8dfe-700114ed1721" alt="회원가입" width="70%" align="center">
+
  <br/>
- <img src="https://github.com/user-attachments/assets/71c01106-47f6-4b85-9bba-577160dd0abf" alt="인증번호" width="45%" height="200px">
- <img src="https://github.com/user-attachments/assets/a431f750-0702-4cdc-bb68-49ed7c45bfbc" alt="인증번호" width="50%" height="200px" align="right">
+ 
+  <details>
+  <summary> 일반회원 / 회원가입 </summary>
+  <img src="https://github.com/user-attachments/assets/2b697b64-1094-41a2-9687-d4a2a3fcf5c1" alt="회원가입2" width="70%" >
+  </details>
+  
+ <br/>
+
+  <details>
+  <summary> 일반회원 / 인증코드 수신(이메일/SMS) </summary>
+ <img src="https://github.com/user-attachments/assets/71c01106-47f6-4b85-9bba-577160dd0abf" alt="인증번호" width="45%" >
+ <img src="https://github.com/user-attachments/assets/a431f750-0702-4cdc-bb68-49ed7c45bfbc" alt="인증번호" width="50%" align="right">
+  </details>
+
+
+
  
  <br/>   
 
