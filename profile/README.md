@@ -45,8 +45,7 @@
 <br/>
 
 ## 📅 프로젝트 일정
-<img src="" alt="일정1">
-<img src="" alt="일정2">
+<img src="https://github.com/user-attachments/assets/e1632eaa-5996-47ab-b33b-980df8015349" alt="일정1">
 <br/>
 <br/>
 <br/>
