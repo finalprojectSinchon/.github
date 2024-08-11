@@ -257,7 +257,7 @@
 
 - 공항에서 급박한 상황 발생시 로그인한 모든 유저에게 긴급한 알림을 발송합니다.
 
- <img src="https://github.com/user-attachments/assets/2823def4-f513-47c1-b097-4881f6ca58bc" alt="Emergency">
+ <img src="https://github.com/user-attachments/assets/38d837e3-fa83-4098-8f59-601d01169d82" alt="Emergency">
 
 
  <br/>   
