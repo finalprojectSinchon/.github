@@ -231,25 +231,24 @@
  
  <br/>   
 
- ### 📌 아이디/비밀번호 찾기
+ ### 📌 프로필 내소개 / 이미지 등록
 
-- 아이디/비밀번호 분실 시 찾기 기능을 사용할 수 있습니다.
-- 비밀번호 찾기 시 등록한 휴대폰 번호로 임시비밀번호가 발송됩니다.
+- 나의 프로필은 마크다운 + html 언어로 꾸밀 수 있습니다. 꾸민 프로필은 사원조회시 노출됩니다.
+- 이미지를 원형으로 자를 수 있습니다. 
 
- <img src="https://github.com/panghunJO/HitechProject/assets/157236060/fcdf52c4-9a7b-4fe4-bfdf-0b02ef078b4a" alt="findpw" width="50%">
- <img src="https://github.com/user-attachments/assets/058c06cb-2822-418a-b9b8-6a2230f43236" alt="인증번호" width="45%" align="right">
+ <img src="https://github.com/user-attachments/assets/90b97946-242d-4712-90ce-88ae679c73d7" alt="findpw" width="50%">
+ <img src="https://github.com/user-attachments/assets/5d5ab9c4-b99b-4ce1-817a-25c2fba487a0" alt="인증번호" width="50%" align="right">
     
  <br/>   
 
 
- ### 📌 실시간 메모장
+ ### 📌 실시간 온라인 상태 확인
 
-- 직원/관리자는 실시간 메모장 기능을 사용할 수 있습니다.
-- 메모장은 중요 공지나 필요한 사항을 기재할 수 있습니다.
+- 사원조회탭에서 실시간으로 온라인 상태를 확인 할 수 있습니다.
+- 온라인인 유저에게 메시지를 전달 시 실시간으로 알림이 전송됩니다.
 
- <img src="https://github.com/panghunJO/HitechProject/assets/157236060/5a92b7a2-3e41-400e-b6a0-582b0ab6f2aa" alt="Notepad">
+ <img src="https://github.com/user-attachments/assets/668cdb3d-9823-4040-ae7c-d3db01c2d413" alt="Live">
 
- - :smiley:[실시간 메모장 위키](https://github.com/panghunJO/HitechProject/wiki/%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%A9%94%EB%AA%A8%EC%9E%A5)
 
  <br/>   
  
