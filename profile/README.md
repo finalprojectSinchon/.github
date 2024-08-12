@@ -214,9 +214,7 @@
 
   <img src="https://github.com/user-attachments/assets/b3f8d71d-ec2e-4205-8dfe-700114ed1721" alt="회원가입" width="70%" align="center">
 
- <br/>
- 
- ***
+ <br/> 
  
   <details>
   <summary> 일반회원 / 회원가입 </summary>
@@ -224,8 +222,7 @@
   </details>
   
  <br/>
- 
- ***
+
 
   <details>
   <summary> 일반회원 / 인증코드 수신(이메일/SMS) </summary>
