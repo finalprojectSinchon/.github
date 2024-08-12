@@ -3,7 +3,9 @@
 # SkyCare
 
 <br/>
-<div align="center"><img src="" alt="로고" width="700px"></div>
+
+
+<div align="center"><img src="https://github.com/user-attachments/assets/94fc67f1-a188-445b-b8ab-988e1b15baf3" alt="로고" width="700px"></div>
 <br/>
 
 **프로젝트 기간** : 2024.06.19 ~ 2023.08.13
