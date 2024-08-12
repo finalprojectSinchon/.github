@@ -299,15 +299,14 @@
  <br/>   
 
 
-  ### 📌 댓글/ 답글 기능
+  ### 📌 QR 코드 인증 / AI 자동 문서화
 
-- 예약 상세보기 페이지와 작업 상세 보기 페이지는 댓글과 답글을 쓸 수 있습니다.
-- 회원과 직원은 자기 댓글만 수정/삭제가 가능합니다.
-- 관리자는 모든 사람의 댓글을 수정/삭제 할 수 있습니다.
+- 직원은 각각의 시설물에 대해 정기정검을 시행할 수 있습니다.
+- 시설물에 대한 정보를 간단히 입력하면 AI 가 보고서를 생성합니다.
 
- <img src="https://github.com/panghunJO/HitechProject/assets/157236060/16e44e8a-1bd7-4453-b25e-528c72f21187" alt="댓글">
+ <img src="https://github.com/user-attachments/assets/553bbfe7-388d-4e93-a63d-5231a8291b1a" alt="QR1" width="50%">
+<img src="https://github.com/user-attachments/assets/bd04c5e0-880b-442e-a859-92d65766fe70" alt="QR2" width="50%" align="right">
 
- - 😊[댓글 답글 기능 위키 ](https://github.com/panghunJO/HitechProject/wiki/%EB%8C%93%EA%B8%80-%EB%8B%B5%EA%B8%80-%EA%B8%B0%EB%8A%A5)
 
  <br/>   
 
