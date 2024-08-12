@@ -313,7 +313,7 @@
 
  ### 📌 매일 API 데이터 DB에 저장
 
- - 매일 12시 당일의 비행기 도착,출발 정보를 요청해 DB에 저장합니다.
+ - 매일 자정 당일의 비행기 도착,출발 정보를 요청해 DB에 저장합니다.
  <img src="https://github.com/user-attachments/assets/e9a792e1-b831-45d7-9d3d-e84719e66702">
    
  <img src="https://github.com/user-attachments/assets/2e34568c-dfc5-4655-9e63-6898c7f20f75">
