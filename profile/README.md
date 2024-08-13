@@ -324,75 +324,21 @@
 
 ***
 
-## 💡 구현 기능
+## 💡 위키
 
-**모바일/데스크톱 지원**
-부트스트랩을 통한 모바일 UI 최적화
+### 📙 back end
 
-**로그인/회원가입**
+  - 😊[GPT OPENAI 질문하기](https://github.com/finalprojectSinchon/backend/wiki/GPT-OPENAI-%EC%A7%88%EB%AC%B8%ED%95%98%EA%B8%B0)
+  - 😊[join 되있는 엔티티 수정할 때 주의 할 점](https://github.com/finalprojectSinchon/backend/wiki/join-%EB%90%98%EC%9E%88%EB%8A%94-%EC%97%94%ED%8B%B0%ED%8B%B0-%EC%88%98%EC%A0%95%ED%95%A0-%EB%95%8C-%EC%A3%BC%EC%9D%98-%ED%95%A0-%EC%A0%90)
+  - 😊[Lombok @Slf4j 사용법](https://github.com/finalprojectSinchon/backend/wiki/Lombok-@Slf4j-%EC%82%AC%EC%9A%A9%EB%B2%95)
+  - 😊[온라인 상태 Ping 확인 위키](https://github.com/finalprojectSinchon/backend/wiki/WebSocket-PingPong)
 
-- 회원가입시 아이디, 이메일 중복확인 검사
-- 아이디 8자이상 20자미만 유효성 검사
-- 비밀번호 8자이상 20자미만 특수문자포함 유효성 검사
-- 비밀번호 확인 검사
-- 휴대폰 번호 형식 검사
-  
+ ### 📘 front end
+  - 😊[JWT 토큰 핸들](https://github.com/finalprojectSinchon/frontend/wiki/JWT-%ED%86%A0%ED%81%B0-%ED%95%B8%EB%93%A4)
+  - 😊[로그인 검증 (프론트)](https://github.com/finalprojectSinchon/frontend/wiki/%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B2%80%EC%A6%9D-(%ED%94%84%EB%A1%A0%ED%8A%B8))
+  - 😊[배포시 react 소스 코드 노출 막기](https://github.com/finalprojectSinchon/frontend/wiki/%EB%B0%B0%ED%8F%AC%EC%8B%9C-react-%EC%86%8C%EC%8A%A4-%EC%BD%94%EB%93%9C-%EB%85%B8%EC%B6%9C-%EB%A7%89%EA%B8%B0)
+  - 😊[이미지 firebase 저장](https://github.com/finalprojectSinchon/frontend/wiki/%EC%9D%B4%EB%AF%B8%EC%A7%80-firebase-%EC%A0%80%EC%9E%A5)
 
-
-**헤더**
-- 본인의 프로필 사진, 이름 표시
-- 관리자, 직원 : 알람 표시 노출 => 등록된 부품이 3개 미만 남았을 시, 신규 문의가 등록 될 시 알람 창 표시
-
-**메인**
-
-- 메인페이지는 직원, 관리자만 접근 가능
-- 캘린더 : 직원 => 자신의 작업에 대한 일정 확인 가능, 관리자 => 모든 직원의 대한 일정을 캘린더에 표시
-- 메모장 : 실시간으로 공지사항, 변동된 사항 등 을 표시
-- 하위 10개 품목 : 현재 해당 부품이 몇개가 남았는 지 메인페이지에서 막대 차트로 표현
-- 사용자 통계 : 현재 회원이 몇명인지, 직원이 몇명인지 에 대한 정보를 표현
-- 월별 작업량 : 로그인한 나에 대한 월 별 작업량 표시, 선 그래프로써 이번 달 나의 작업량에 대해 한눈에 볼 수 있음
-- 이번달 랭킹 : 이번달 작업 수 에 대한 순위를 Top5 까지 표시
-
-**내 프로필**
-
-- 내 프로필 확인 시 OverView,수정,비밀번호 변경 가능
-- 수정 시 프로필사진, 내 소개, 소속, 주소, 휴대폰 번호, 이메일 변경 가능
-- 비밀번호 변경 시 현재 비밀번호가 일치한지 검사 일치하면 로그아웃
-
-**상대 프로필**
-- 손님은 상대 프로필 확인 시 이름, 내소개, 권한, 이메일 만 확인 가능
-- 직원은 모두 조회 가능
-- 관리자는 상대 프로필 수정 가능, 권한 부여 가능
-
-**예약 하기**
-
-- 손님은 로그인 시 예약하기/예약 조회하기 확인가능
-- 예약 하기 시 차량 선택 후
-- 예약 품목, 날짜, 추가 요청사항 등록 가능
-
-**예약 조회**
-
-- 손님은 예약 조회시 내 예약 조회 가능
-- 직원,관리자는 전체 예약 조회 가능
-
-**문의 조회**
-
-- 손님은 문의 조회시 내 문의 조회 가능
-- 직원,관리자는 전체 문의 조회 가능
-- 직원,관리자는 문의에 대한 답변 시 해당 유저에게 메일 전송
-- 들어온 문의가 고객에게 메일로 답장을 해야 문의상태 완료
-
-**작업 등록,조회,수정,삭제**
-
-- 직원,관리자는 손님이 예약한 정보를 작업에 등록 가능
-- 직원,관리자는 예약 날짜/시간 수정 시 1시간 단위로 수정, 추가 사항 수정
-- 손님은 내 작업 조회만 가능
-
-**관리자 페이지**
-- 관리자만 접근 가능
-- 부품 정보 조히
-- 전체 예약 조회
-- 전체 직원 조회 가능
 
 
 <br/>
