@@ -327,16 +327,16 @@
 
 ***
 
-## 💡 위키
+## 💡 WIKI
 
-### 📙 back end
+### 📙 Back end
 
   - 😊[GPT OPENAI 질문하기](https://github.com/finalprojectSinchon/backend/wiki/GPT-OPENAI-%EC%A7%88%EB%AC%B8%ED%95%98%EA%B8%B0)
   - 😊[join 되있는 엔티티 수정할 때 주의 할 점](https://github.com/finalprojectSinchon/backend/wiki/join-%EB%90%98%EC%9E%88%EB%8A%94-%EC%97%94%ED%8B%B0%ED%8B%B0-%EC%88%98%EC%A0%95%ED%95%A0-%EB%95%8C-%EC%A3%BC%EC%9D%98-%ED%95%A0-%EC%A0%90)
   - 😊[Lombok @Slf4j 사용법](https://github.com/finalprojectSinchon/backend/wiki/Lombok-@Slf4j-%EC%82%AC%EC%9A%A9%EB%B2%95)
   - 😊[온라인 상태 Ping 확인 위키](https://github.com/finalprojectSinchon/backend/wiki/WebSocket-PingPong)
 
- ### 📘 front end
+ ### 📘 Front end
   - 😊[JWT 토큰 핸들](https://github.com/finalprojectSinchon/frontend/wiki/JWT-%ED%86%A0%ED%81%B0-%ED%95%B8%EB%93%A4)
   - 😊[로그인 검증 (프론트)](https://github.com/finalprojectSinchon/frontend/wiki/%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B2%80%EC%A6%9D-(%ED%94%84%EB%A1%A0%ED%8A%B8))
   - 😊[배포시 react 소스 코드 노출 막기](https://github.com/finalprojectSinchon/frontend/wiki/%EB%B0%B0%ED%8F%AC%EC%8B%9C-react-%EC%86%8C%EC%8A%A4-%EC%BD%94%EB%93%9C-%EB%85%B8%EC%B6%9C-%EB%A7%89%EA%B8%B0)
