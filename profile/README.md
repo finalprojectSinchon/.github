@@ -9,7 +9,7 @@
 <div align="center"><img src="https://github.com/user-attachments/assets/94fc67f1-a188-445b-b8ab-988e1b15baf3" alt="로고" width="700px"></div>
 <br/>
 
-**프로젝트 기간** : 2024.06.19 ~ 2023.08.13
+**프로젝트 기간** : 2024.06.19 ~ 2024.08.13
 
  ✈️ [SkyCare 서비스 둘러보기](http://skycare.site) (데스크탑/모바일 환경에서 이용 가능)
 
