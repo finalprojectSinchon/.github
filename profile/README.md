@@ -41,6 +41,61 @@
 
 <br/>
 
+### **아키텍처**
+```mermaid
+graph TB
+    subgraph "모바일 앱 (React Native)"
+        A[QR Auth App] --> B[Navigation]
+        B --> C[Screens]
+        C --> D[Login Screen]
+        C --> E[Home Screen]
+        C --> F[QR Scanner]
+        C --> G[Inspection Screen]
+        A --> H[Services]
+        H --> I[Auth Service]
+        H --> J[API Client]
+        H --> K[Storage Service]
+    end
+
+    subgraph "웹 프론트엔드 (React)"
+        L[Web Dashboard] --> M[Components]
+        M --> N[QR Management]
+        M --> O[Inspection Reports]
+        M --> P[User Management]
+        L --> Q[Redux Store]
+        Q --> R[Actions/Reducers]
+    end
+
+    subgraph "백엔드 (Spring Boot)"
+        S[API Server] --> T[Controllers]
+        T --> U[Services]
+        U --> V[Repositories]
+        V --> W[(MySQL DB)]
+        
+        X[Core Modules] --> Y[Security]
+        Y --> Z[JWT Auth]
+        X --> AA[QR Service]
+        X --> AB[Inspection Service]
+        
+        AC[External Services] --> AD[Firebase Admin]
+        AC --> AE[GPT Service]
+        AC --> AF[SMS Service]
+    end
+
+    subgraph "인프라"
+        AG[AWS EC2] --> AH[Docker]
+        AH --> AI[Spring Boot App]
+        AH --> AJ[MySQL]
+        AK[Firebase Cloud] --> AL[FCM]
+        AK --> AM[Storage]
+    end
+
+    A -.-> |REST API| S
+    L -.-> |REST API| S
+    S -.-> |Push Notification| A
+```
+
+
 **프로젝트 문서**
  
 | 📒 [팀 Notion ](https://adorable-entree-2a6.notion.site/HitechAutoWorks-746bb8d780ce4f07957e2efccb4a37d8?pvs=4](https://ohgiraffers.notion.site/SkyCare-e6c16dc3f41b4521948d685a14f4bd80?pvs=4)) | 🎉 [Figma](https://www.figma.com/design/ncnvZxnE8j2mM3fBtjmweC/%EC%8B%9C%EC%84%A4%EB%AC%BC-%EA%B4%80%EB%A6%AC--%EC%95%88%EB%82%B4%EC%86%8C-%EC%A1%B0%ED%9A%8C?node-id=0-1&m=dev&t=R1QnTV1cniEE8Ti2-1) | 💌 [Miro](https://miro.com/welcomeonboard/RjlzeXZuME9qMnBxY25LTkU4a1JEMWgxTHZhbjFqU1lidU53c3JNckQwTGtzajZtNzhKT0ZldURJYVFoZEhiVnwzNDU4NzY0NTg3Mjk1NzY0MjI4fDI=?share_link_id=888080450545)
