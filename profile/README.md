@@ -11,8 +11,6 @@
 <div align="center"><img src="https://github.com/user-attachments/assets/94fc67f1-a188-445b-b8ab-988e1b15baf3" alt="로고" width="700px"></div>
 <br/>
 
-**프로젝트 기간** : 2024.06.19 ~ 2024.08.13
-
  ✈️ [SkyCare 서비스 둘러보기](http://skycare.site) (데스크탑/모바일 환경에서 이용 가능) // 수정중
 
  [📱모바일 어플 다운로드(안드로이드)](https://file.notion.so/f/f/2e42b292-3597-492a-9d2f-caaf0ff36a48/98b37acc-867d-48b1-8178-c04e6c972557/application-864190da-686c-41fe-91a8-e9e369695f6d.apk.zip?table=block&id=1358db88-3508-423d-8324-c54bf010996c&spaceId=2e42b292-3597-492a-9d2f-caaf0ff36a48&expirationTimestamp=1723608000000&signature=TZylyeVJFDnrGms1-VXS5AAyjjNWgHb0IXglhm_LUAU&download=true&downloadName=application-864190da-686c-41fe-91a8-e9e369695f6d.apk.zip)
